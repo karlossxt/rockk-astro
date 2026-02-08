@@ -108,7 +108,7 @@ const App: React.FC = () => {
             onClick={() => { setCurrentView('home'); setActiveCategory(null); }}
             className="text-3xl font-syne font-black tracking-tighter italic glitch-hover cursor-pointer"
           >
-            MUSAIC<span className="text-red-600">.</span>
+            EL ROCK<span className="text-red-600">.</span>
           </h1>
           <div className="hidden lg:flex space-x-8">
             {categories.map(cat => (
@@ -165,7 +165,7 @@ const App: React.FC = () => {
       <footer className="mt-40 bg-black py-24 px-6 border-t-8 border-red-600">
         <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-16">
           <div className="col-span-2 space-y-8">
-             <h2 className="text-5xl font-syne font-black tracking-tighter italic">MUSAIC.</h2>
+             <h2 className="text-5xl font-syne font-black tracking-tighter italic">El Rock de Todos los Días.</h2>
              <p className="text-zinc-500 max-w-sm mono text-sm leading-relaxed uppercase font-bold">
                Un diario ruidoso para mentes distorsionadas. Música, Cultura y Cine filtrados a través del lente de la subcultura independiente.
              </p>

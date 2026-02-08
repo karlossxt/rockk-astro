@@ -10,8 +10,8 @@ const InfoPages: React.FC<Props> = ({ type, onClose }) => {
   const content = {
     about: {
       title: '¿QUIÉNES SOMOS?',
-      subtitle: 'EL MANIFIESTO DE MUSAIC',
-      body: `MUSAIC no es solo una página de noticias. Es un acto de rebelión contra el algoritmo. Nacimos en el ruido del under, entre cables pelados y amplificadores que zumban. Creemos en la música que tiene cicatrices, en el arte que incomoda y en el cine que te deja pensando en la oscuridad. Somos un equipo de melómanos, artistas y desadaptados digitales que buscan devolverle el alma a la prensa musical.`,
+      subtitle: 'EL MANIFIESTO DELROCK',
+      body: `El Rock de todos los Días, no es solo una página de noticias. Es un acto de rebelión contra el algoritmo. Nacimos en el ruido del under, entre cables pelados y amplificadores que zumban. Creemos en la música que tiene cicatrices, en el arte que incomoda y en el cine que te deja pensando en la oscuridad. Somos un equipo de melómanos, artistas y desadaptados digitales que buscan devolverle el alma a la prensa musical.`,
     },
     contact: {
       title: 'CONTACTO',
@@ -19,8 +19,8 @@ const InfoPages: React.FC<Props> = ({ type, onClose }) => {
       body: `¿Tienes una queja? ¿Una propuesta indecente? ¿Quieres colaborar? No nos busques en oficinas de cristal. Escríbenos a nuestra terminal central. Respondemos cuando el ruido nos lo permite.`,
       extra: (
         <div className="mt-8 space-y-4 mono font-bold uppercase text-red-600">
-          <p>INFO@MUSAIC.XYZ</p>
-          <p>BUENOS AIRES // BERLÍN // TOKYO</p>
+          <p>PRENSA@ELROCKDETODOSLOSDIAS.COM.MX</p>
+          <p>MÉXICO // LATAM // TOKYO</p>
         </div>
       )
     },

@@ -102,5 +102,35 @@ export const NEWS: NewsItem[] = [
     imageUrl: 'https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=800',
     date: '27 Oct, 2023',
     author: 'Rafa Glitch'
-  }
+  },
+  {
+  id: 'zoe-unplugged-15',
+  title: 'ZOÉ: 15 AÑOS DE MÚSICA DE FONDO',
+  category: 'Música',
+  author: 'Karlos SXT',
+  date: '08 FEB 2024',
+  imageUrl: '/images/zoe-1.jpg', // Imagen principal (la del header)
+  excerpt: 'A 15 años de su histórico MTV Unplugged, recordamos cómo Zoé redefinió el rock en español desde los Estudios Churubusco.',
+  content: `Hace 15 años, en los Estudios Churubusco de la Ciudad de México, Zoé grabó lo que se convertiría en uno de los momentos más emblemáticos de su trayectoria: Unplugged: Música de Fondo. La sesión, fue el resultado de una dinámica organizada por la banda en Twitter, mediante la cual varios seguidores tuvieron la oportunidad de presenciar en vivo la grabación.\n\nEl concierto reunió a destacados invitados, entre ellos Denise Gutiérrez y el legendario Enrique Bunbury. El setlist incluyó 15 temas: reinterpretaciones acústicas de sus éxitos y una versión Deluxe de “Bésame Mucho”. El primer sencillo, “Sombras”, marcó un giro notable al dejar atrás los arreglos electrónicos, apostando por una propuesta más orgánica y atmosférica.\n\nMúsica de Fondo no solo se convirtió en el álbum más exitoso de la banda, sino que también redefinió su lugar en la industria. La producción obtuvo múltiples discos de platino y marcó un antes y un después en el panorama del rock en español de la década.\n\nQuince años después, Zoé sigue siendo un referente indiscutible. Música de Fondo permanece como testimonio de un momento en el que el rock mexicano alcanzó una de sus cimas más creativas y emocionales.`
+},
+{
+  id: 'kiss-alive-50',
+  title: 'A 50 AÑOS DE KISS ALIVE!: EL DISCO QUE CAMBIÓ LAS REGLAS',
+  category: 'Música',
+  author: 'Karlos SXT',
+  date: '08 FEB 2026',
+  imageUrl: '/images/kiss-alive.jpg',
+  excerpt: 'Antes de 1975, los discos en vivo eran un trámite. Después de Kiss, se convirtieron en un arma de destrucción masiva.',
+  content: `En los años sesenta y primeros setenta, los discos en directo eran rarezas. James Brown, The Who y Deep Purple habían dejado sus huellas, pero las discográficas los veían como un complemento, nunca como el centro de la estrategia. Kiss tenía un problema: su propuesta visual era imbatible, pero sus tres primeros discos no lograban capturar esa energía.\n\nLa solución fue radical: grabar un doble en vivo que mostrara a la banda tal cual se vivía en los escenarios. Alive! se lanzó el 10 de septiembre de 1975. Aunque gran parte del disco fue retocado en estudio para corregir voces y guitarras, Paul Stanley reconoció: "Capturamos la esencia. Si hubiera sido crudo, se habría perdido la magia".\n\nUn detalle de leyenda es la contraportada: Fin Costello captó de casualidad a dos adolescentes con un cartel hecho a mano. Eran Bruce Redoute y Lee Neaves, quienes se convirtieron en la imagen de la euforia de toda una generación.\n\nMedio siglo más tarde, Alive! no solo se escucha como testimonio de la fuerza de Kiss: se recuerda como el disco que salvó a su sello, Casablanca Records, y que probó que un álbum en directo podía ser más importante que uno de estudio.`
+},
+{
+  id: 'andor-s2-politica',
+  title: 'ANDOR TEMPORADA 2: LA REBELIÓN COMO REFLEJO DE LA REALIDAD',
+  category: 'Cine',
+  author: 'Karlos SXT',
+  date: '08 FEB 2026',
+  imageUrl: '/images/andor-s2.jpg',
+  excerpt: 'Más que ciencia ficción, un comentario político brutal. La serie que abandona los sables de luz para hablarnos de vigilancia masiva y resistencia real.',
+  content: `La segunda temporada de Andor no solo consolida su lugar como la serie más madura del universo Star Wars, sino que se convierte en un espejo incómodo de las realidades políticas que vivimos fuera de la pantalla. Tony Gilroy entrega una obra que abandona los sables de luz para sumergirse en los engranajes más oscuros de la resistencia: espionaje, vigilancia y sacrificios personales.\n\nEn lugar de enfrentamientos épicos, Andor nos da conversaciones encriptadas en pasillos fríos del Imperio y actos de violencia que, aunque justificables por la causa, no dejan de ser moralmente turbios. La vigilancia masiva resuena con ecos de dictaduras reales —desde los regímenes totalitarios del siglo XX hasta sistemas contemporáneos de opresión tecnológica.\n\nEste enfoque desmitifica el conflicto y lo acerca a luchas de resistencia históricas: movimientos antifascistas, la Guerra Civil Española y masacres reales como las de Tlatelolco 1968 o la Noche de los Lápices en 1976. Aquí, la Fuerza no interviene para salvar el día; son decisiones humanas, con consecuencias humanas.\n\nAndor es un recordatorio de que Star Wars siempre ha tratado sobre la lucha entre libertad y control. La diferencia es que ahora lo hace con la crudeza y profundidad de una serie que no teme parecerse demasiado a nuestra realidad.`
+}
 ];
